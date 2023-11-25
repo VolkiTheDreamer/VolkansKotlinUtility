@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyUtility</string>
+    <string name="OK">OK</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="cancel">Cancel</string>
+</resources>
